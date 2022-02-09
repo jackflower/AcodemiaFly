@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/fly.png-86f3a7ed880213509f51dcb693c16e90.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://fly.png"
-source_md5="2de678874f39780adf3970392c3323db"
-
 dest_files=[ "res://.import/fly.png-86f3a7ed880213509f51dcb693c16e90.stex" ]
-dest_md5="4c8c7d9184ba683a014a81dbe0799a53"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,7 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
 stream=false
 size_limit=0
 detect_3d=true
